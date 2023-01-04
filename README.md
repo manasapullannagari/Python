@@ -1,2 +1,2 @@
-# Pandas
+# python
 Pandas Practice
